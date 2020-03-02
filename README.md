@@ -37,3 +37,6 @@ Des Moines has a much smaller population compared to New York, meaning that we w
 Therefore, we believe that bike-sharing will be most widely used when people are traveling to and from places of interest in the city. 
 
 We suggest that bike-sharing stations are located in areas near places of interest. It is there we expect them to get the most use from local individuals and visiting tourists wanting to get around the city at their own pace. 
+
+### Link to Tableau Story
+You will find the final visualization strory [Here](https://public.tableau.com/profile/hillary.krumbholz#!/vizhome/Bike-SharinginDesMoines/Bike-SharinginDesMoines?publish=yes) on Tableau Public.
