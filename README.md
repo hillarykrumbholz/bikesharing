@@ -4,7 +4,7 @@
 To create worksheets. dashboards, and stories from New York City bike-sharing data using Tableau.
 
 ## Resources
-Data Sources: 
+Data Sources <br>
 -CitiBike Data: https://www.citibikenyc.com/system-data
 
 -New York Census Data: https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,US/PST045219
