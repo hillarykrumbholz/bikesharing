@@ -18,3 +18,11 @@ Data Sources <br>
 - Des Moines Tourism: https://www.catchdesmoines.com/things-to-do/
 
 Software: Tableau
+
+### Project Objective
+We want to know if a bike-sharing startup will be successful in Des Moines, Iowa. 
+We will be using CitiBike data from New York City as our baseline to determine the feasibility, and to make an informed decision whether or not this will be a success in Des Moines. 
+
+We will be looking at the population in Des Moines and comparing it to New York to get an idea how the population difference will affect the number of people who will use the bike-sharing program.
+
+In order to get a better demographic comparison, gender was also looked at for both cities. Lastly, we were interested where the citibikes were ending up and if Des Moines has similar points of interest. 
