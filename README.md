@@ -1,7 +1,7 @@
 # Bike-Sharing
 
 ## Project Overview
-To create worksheets. dashboards, and stories from New York City bike-sharing data using Tableau.
+To create worksheets, dashboards, and stories from New York City bike-sharing data using Tableau.
 
 ## Resources
 Data Sources <br>
